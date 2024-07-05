@@ -14,7 +14,7 @@ export const Footer = () => {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/profile" className="profile-circle footer-link ">
+          <NavLink to="/profile" className="footer-link ">
             <FaUser size={26} />
           </NavLink>
         </li>
